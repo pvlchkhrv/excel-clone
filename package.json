@@ -1,7 +1,7 @@
 {
   "name": "excel-course",
   "version": "1.0.0",
-  "description": "Pure JavaScript Excel Application",
+  "description": "JavaScript Excel Application",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladilenm/excel-course.git"
+    "url": "git+https://github.com/pvlchkhrv/excel-clone.git"
   },
   "keywords": [
     "js",
     "javascript",
     "excel"
   ],
-  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vladilenm/excel-course/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/vladilenm/excel-course#readme",
+  "homepage": "https://github.com/vladilenm/excel-clone#readme",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
